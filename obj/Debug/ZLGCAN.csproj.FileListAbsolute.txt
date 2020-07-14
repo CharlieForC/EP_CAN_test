@@ -1,0 +1,15 @@
+D:\C# Code\ZLGCAN\bin\Debug\ZLGCAN.exe.config
+D:\C# Code\ZLGCAN\bin\Debug\ZLGCAN.exe
+D:\C# Code\ZLGCAN\bin\Debug\ZLGCAN.pdb
+D:\C# Code\ZLGCAN\obj\Debug\ZLGCAN.csprojAssemblyReference.cache
+D:\C# Code\ZLGCAN\obj\Debug\MainWindow.g.cs
+D:\C# Code\ZLGCAN\obj\Debug\App.g.cs
+D:\C# Code\ZLGCAN\obj\Debug\ZLGCAN_MarkupCompile.cache
+D:\C# Code\ZLGCAN\obj\Debug\ZLGCAN_MarkupCompile.lref
+D:\C# Code\ZLGCAN\obj\Debug\MainWindow.baml
+D:\C# Code\ZLGCAN\obj\Debug\ZLGCAN.g.resources
+D:\C# Code\ZLGCAN\obj\Debug\ZLGCAN.Properties.Resources.resources
+D:\C# Code\ZLGCAN\obj\Debug\ZLGCAN.csproj.GenerateResource.cache
+D:\C# Code\ZLGCAN\obj\Debug\ZLGCAN.csproj.CoreCompileInputs.cache
+D:\C# Code\ZLGCAN\obj\Debug\ZLGCAN.exe
+D:\C# Code\ZLGCAN\obj\Debug\ZLGCAN.pdb

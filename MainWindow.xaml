@@ -1,0 +1,18 @@
+﻿<Window x:Class="ZLGCAN.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ZLGCAN"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Label x:Name="lab1" Content="Label" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="32,30,0,0" Height="32" Width="395"/>
+        <Button x:Name="but1" Content="打开" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="32,86,0,0" Click="but1_Click"/>
+        <Button x:Name="but1_Copy" Content="关闭" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="133,86,0,0" Click="but2_Click"/>
+        <Button x:Name="but3" Content="读版本号" HorizontalAlignment="Left" Margin="234,86,0,0" VerticalAlignment="Top" Width="75" Click="but3_Click"/>
+        <TextBox x:Name="Tbox" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="176" Margin="32,129,0,0"/>
+        <TextBox x:Name="canbox" HorizontalAlignment="Left" Height="401" Margin="367,10,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="416"/>
+        <Button x:Name="but_read" Content="读取CAN" HorizontalAlignment="Left" Margin="234,129,0,0" VerticalAlignment="Top" Width="75" Click="but_read_Click"/>
+    </Grid>
+</Window>
